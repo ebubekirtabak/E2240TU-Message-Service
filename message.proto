@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message SensorData {
+  int32 id = 1;
+  float temperature = 2;
+  float humidity = 3;
+  string text = 4;
+  double lat = 5;
+  double long = 6;
+  string timestamp = 7;
+  string device_id = 8;
+  string user_id = 9;
+}

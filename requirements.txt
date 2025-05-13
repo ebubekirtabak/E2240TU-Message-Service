@@ -1,0 +1,2 @@
+protobuf==6.30.2
+pyserial==3.5
