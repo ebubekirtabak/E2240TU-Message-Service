@@ -1,3 +1,4 @@
 protobuf==6.30.2
 pyserial==3.5
 python-dotenv==1.1.0
+sqids==0.5.2
